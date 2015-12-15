@@ -1,0 +1,532 @@
+@media screen and (max-width:1240px)
+{
+
+		.skrepka{
+		margin-left: -7.5%;
+		display: block;	
+	}
+	.skrepka_1{
+	margin-left: -6.9%;
+	display:block;
+	}	
+	/*#menu a{
+		 font-size:0.79em;
+		 line-height:29px;}
+	.cutata {
+		 padding:3.5% 2.5% 4.5% 2.5%; 
+	     font-size: 1.35em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.35%;
+	margin-left: 0.45%;}	*/
+	.page_1{font-size:1em;}
+	.page_11{font-size:1em;}
+	.page_111{font-size:1em;}
+}
+
+@media screen and (max-width:1150px)
+{
+		.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.79em;
+		 line-height:29px;}
+	.cutata {
+		 padding:3.5% 2.5% 4.0% 2.5%; 
+	     font-size: 1.25em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.35%;
+	margin-left: 0.45%;}	 
+	.page_1{font-size:1em;}
+	.page_11{font-size:1em;}
+	.page_111{font-size:1em;}
+}
+
+@media screen and (max-width:1083px)
+{
+		.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.79em;
+		 line-height:29px;}
+	.cutata {
+		 padding:3.5% 2.5% 3.5% 2.5%; 
+	     font-size: 1.15em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.25%;
+	margin-left: 0.45%;}	
+	.page_1{font-size:1em;}
+	.page_11{font-size:1em;}
+	.page_111{font-size:1em;} 
+}
+
+
+@media screen and (max-width:933px)
+{
+
+	.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.79em;
+		 line-height:29px;}
+	.cutata {
+		 padding:3.2% 2.5% 3% 2.5%; 
+	     font-size: 1.15em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.25%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.9em;}
+	.reklama{
+	font-size:0.8em;}
+	.page_1{font-size:1em;}
+	.page_11{font-size:1em;}
+	.page_111{font-size:1em;}
+	 
+}
+
+
+@media screen and (max-width:873px)
+{
+		.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.79em;
+		 line-height:29px;}
+	.cutata {
+		 padding:3% 2.5% 2.85% 2.5%; 
+	     font-size: 1.15em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.25%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.9em;}
+	.reklama{
+	font-size:0.8em;}
+	.stattya{
+	font-size:0.9em;}
+	.socset{
+	font-size:0.9em;}
+	.page_1{font-size:1em;}
+	.page_11{font-size:1em;}
+	.page_111{font-size:1em;}
+	 
+}
+
+@media screen and (max-width:858px)
+{
+		.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.79em;
+		 line-height:29px;}
+	.cutata {
+		 padding:3% 2.5% 2.85% 2.5%; 
+	     font-size: 1.15em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.25%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.9em;}
+	.reklama{
+	font-size:0.8em;}
+	.stattya{
+	font-size:0.9em;}
+	.socset{
+	font-size:0.9em;}
+	.page_1{font-size:1em;}
+	.page_11{font-size:1em;}
+	.page_111{font-size:1em;}
+	 
+}
+
+@media screen and (max-width:814px)
+{
+		.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.79em;
+		 line-height:29px;}
+	.cutata {
+		 padding:3% 2.5% 2.65% 2.5%; 
+	     font-size: 1.05em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.25%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.8em;}
+	.reklama{
+	font-size:0.7em;}
+	.stattya{
+	font-size:0.8em;}
+	.socset{
+	font-size:0.8em;}
+	.page_1{font-size:0.96em;}
+	.page_11{font-size:0.96em;}
+	.page_111{font-size:0.96em;}
+	 
+}
+
+@media screen and (max-width:736px)
+{
+		.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.76em;
+		 line-height:27px;}
+	.cutata {
+		 padding:3% 2.5% 2.35% 2.5%; 
+	     font-size: 1em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.15%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.7em;}
+	.reklama{
+	font-size:0.8em;}
+	.stattya{
+	font-size:0.7em;}
+	.socset{
+	font-size:0.7em;}
+	.page_1{font-size:0.9em;}
+	.page_11{font-size:0.9em;}
+	.page_111{font-size:0.9em;}
+	 
+}
+
+@media screen and (max-width:722px)
+{
+		.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.72em;
+		 line-height:27px;}
+	.cutata {
+		 padding:3% 2.5% 2.15% 2.5%; 
+	     font-size: 0.95em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.05%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.55em;
+		}
+	.reklama{
+	font-size:0.7em;}
+	.stattya{
+	font-size:0.6em;}
+	.socset{
+	font-size:0.7em;}
+	.page_1{font-size:0.75em;}
+	.page_11{font-size:0.75em;}
+	.page_111{font-size:0.75em;}
+	 
+}
+
+@media screen and (max-width:689px)
+{
+	.forma{
+		display: none;	
+		}
+	.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.72em;
+		 line-height:27px;}
+	.cutata {
+		 padding:3% 2.5% 2.15% 2.5%; 
+	     font-size: 0.95em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.05%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.55em;
+		}
+	.reklama{
+	font-size:0.7em;}
+	.stattya{
+	font-size:0.6em;}
+	.socset{
+	font-size:0.7em;}
+	.page_1{font-size:0.75em;}
+	.page_11{font-size:0.75em;}
+	.page_111{font-size:0.75em;}
+	 
+}
+
+
+@media screen and (max-width:545px)
+{
+	.forma{
+		display: none;	
+		}
+	.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.72em;
+		 line-height:27px;}
+	#menu_futter a{
+		 font-size:0.72em;}
+	#menu_futter{
+		font-size:0.72em;
+		}		
+	.cutata {
+		 padding:3% 2.5% 2.15% 2.5%; 
+	     font-size: 0.95em;}
+	.fon{
+	width: 78%;
+	margin-top: 1.05%;
+	margin-left: 0.45%;}	
+	.recomend{
+		font-size:0.55em;
+		}
+	.reklama{
+	font-size:0.7em;}
+	.stattya{
+	font-size:0.6em;}
+	.socset{
+	font-size:0.7em;}
+	.page_1{font-size:0.75em;}
+	.page_11{font-size:0.75em;}
+	.page_111{font-size:0.75em;}
+	 
+}
+
+@media screen and (max-width:433px)
+{
+	.forma{
+		display: none;	
+		}
+	.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.69em;
+		 line-height:25px;}
+	#menu_futter a{
+		 font-size:0.7em;}
+	#menu_futter{
+		font-size:0.7em;
+		}		
+	.cutata {
+		 padding:2.9% 2.5% 2.0% 2.5%; 
+	     font-size: 0.9em;}
+	.fon{
+	width: 77%;
+	margin-top: 1%;
+	margin-left: 0.35%;}	
+	.recomend{
+		font-size:0.5em;
+		}
+	.reklama{
+	font-size:0.6em;}
+	.stattya{
+	font-size:0.5em;}
+	.socset{
+	font-size:0.6em;}
+	.page_1{font-size:0.7em;}
+	.page_11{font-size:0.7em;}
+	.page_111{font-size:0.7em;}
+	.page_align{
+		font-size:0.7em;
+	}
+	 
+}
+
+@media screen and (max-width:426px)
+{
+	.forma{
+		display: none;	
+		}
+	.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.67em;
+		 line-height:23px;}
+	#menu_futter a{
+		 font-size:0.6em;}
+	#menu_futter{
+		font-size:0.6em;
+		}		
+	.cutata {
+		 padding:2.5% 2.5% 2% 2.5%; 
+	     font-size: 0.8em;}
+	.fon{
+	width: 76%;
+	margin-top: 1%;
+	margin-left: 0.25%;}	
+	.recomend{
+		font-size:0.45em;	}
+	.reklama{
+	font-size:0.55em;}
+	.stattya{
+	font-size:0.45em;}
+	.socset{
+	font-size:0.55em;}
+	.page_1{font-size:0.65em;}
+	.page_11{font-size:0.65em;}
+	.page_111{font-size:0.65em;}
+	.page_align{
+		font-size:0.6em;}
+}
+
+@media screen and (max-width:409px)
+{
+	#menu {
+	display: none;	
+	}
+	.bar{
+		display: none;	
+	}
+	.forma{
+		display: none;	
+		}
+	.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.67em;
+		 line-height:10px;}
+	#menu_futter a{
+		 font-size:0.6em;}
+	#menu_futter{
+		font-size:0.6em;
+		}		
+	.cutata {
+		 padding:2.5% 2.5% 2% 2.5%; 
+	     font-size: 0.8em;}
+	.fon{
+	width: 76%;
+	margin-top: 1%;
+	margin-left: 0.25%;}	
+	.recomend{
+		font-size:0.45em;	}
+	.reklama{
+	font-size:0.55em;}
+	.stattya{
+	font-size:0.45em;}
+	.socset{
+	font-size:0.55em;}
+	.page_1{font-size:0.65em;
+	width: 100%;
+	float: none;}
+	.page_11{font-size:0.65em;
+	width: 100%;
+	float: none;}
+	.page_111{font-size:0.65em;
+	width: 100%;
+	float: none;}
+	.page_align{
+		font-size:0.6em;}
+}
+
+@media screen (min-width:300px) and (max-width:409px)
+{
+	#menu {
+	display: none;	
+	}
+	.bar{
+		display: none;	
+	}
+	.forma{
+		display: none;	
+		}
+	.skrepka{
+		display: none;	
+	}
+    .skrepka_1{
+	display: none;
+	}	
+	#menu a{
+		 font-size:0.67em;
+		 line-height:10px;}
+	#menu_futter a{
+		 font-size:0.6em;}
+	#menu_futter{
+		font-size:0.6em;
+		}		
+	.cutata {
+		 padding:2% 2.5% 2% 2.5%; 
+	     font-size: 0.55em;}
+	.fon{
+	width: 75%;
+	margin-top: 1%;
+	margin-left: 0.2%;}	
+	.recomend{
+		font-size:0.45em;	}
+	.reklama{
+	font-size:0.55em;}
+	.stattya{
+	font-size:0.45em;}
+	.socset{
+	font-size:0.55em;}
+	.page_1{font-size:0.65em;
+	width: 100%;
+	float: none;}
+	.page_11{font-size:0.65em;
+	width: 100%;
+	float: none;}
+	.page_111{font-size:0.65em;
+	width: 100%;
+	float: none;}
+	.page_align{
+		font-size:0.55em;}
+}
